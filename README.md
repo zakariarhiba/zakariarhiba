@@ -1,8 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=ZAKPY%20DIGITAL%20SOLUTIONS&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Digital%20Solutions%20%7C%20Casablanca,%20Morocco&descAlignY=58&descSize=16" width="100%"/>
-
-<img src="assets/logo.png" width="110" alt="Zakpy logo"/>
+<img src="assets/logo.png" width="70" alt="Zakpy logo"/>
 
 ### Hi, I'm Zakaria Rhiba 👋 · Researcher & Founder @ **Zakpy Digital Solutions**
 
