@@ -9,7 +9,7 @@ I'm a researcher working on **telemedicine and IoMT (Internet of Medical Things)
 
 Alongside my research, I run **Zakpy Digital Solutions**, where I help businesses scale through web apps, CRM systems, and automation workflows.
 
-[![Website](https://img.shields.io/badge/zakpy.tech-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zakpy.com)
+[![Website](https://img.shields.io/badge/zakpy.com-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zakpy.com)
 [![Email](https://img.shields.io/badge/zakariarhiba21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariarhiba21@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212750111310)
 [![Zakpy Digital Solutions](https://img.shields.io/badge/Zakpy_Digital_Solutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zakpy_digital_solutions/)
@@ -64,7 +64,7 @@ I'm open to freelance projects, collaborations and internships in software devel
 
 [![Email](https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariarhiba21@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212750111310)
-[![Website](https://img.shields.io/badge/Visit-zakpy.tech-2C5364?style=for-the-badge)](https://www.zakpy.tech)
+[![Website](https://img.shields.io/badge/Visit-zakpy.com-2C5364?style=for-the-badge)](https://www.zakpy.com)
 
 </div>
 
